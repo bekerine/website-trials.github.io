@@ -154,6 +154,7 @@ body {
   
   .container {
     padding: 2px;
+    font-size: 4%;
     /* display: inline; */
   }
   .cards{
