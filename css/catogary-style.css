@@ -99,7 +99,13 @@ body {
 }
   /* top end */
   #para1{
-    padding-left: 20px;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: auto;
+  display: block;
   }
 /* search start */
   .upper iframe{
