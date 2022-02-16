@@ -154,14 +154,14 @@ body {
   
   .container {
     padding: 2px;
-    font-size: 40%;
+    font-size: 38%;
     /* display: inline; */
   }
   
 .containers a{
     text-decoration: none;
     color: black;
-    font-size: 38%;
+    font-size: 40%;
   }
   .containers{
       /* margin-top: 140px; */
