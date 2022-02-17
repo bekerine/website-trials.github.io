@@ -101,9 +101,8 @@ body {
   #para1{
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+  margin-left: 20px;
+  width: 60%;
   height: auto;
   display: block;
   }
@@ -112,6 +111,8 @@ body {
     padding-left: 25%;
     height: 250px;
     width: 50%;
+    overflow: hidden;
+    display: block;
   }
 /* search end */
 
