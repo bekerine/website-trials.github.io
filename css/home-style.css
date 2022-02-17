@@ -100,7 +100,8 @@ body {
 .slider{
     overflow: hidden;
     /* position: absolute; */
-    top: 10%;
+    margin-top: 5px;
+    top: 50%;
     left: 50%;
     /* transform: translate(-50%,-50%); */
     width: 100%;
