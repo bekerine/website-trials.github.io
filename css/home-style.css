@@ -203,9 +203,6 @@ footer{
   text-align: left;
   font-size: 10px;
 }
-h3{
-  font-size: 50%;
-}
 .footer-menu{
   text-align: right;
   margin-right: 20px;
@@ -219,9 +216,13 @@ h3{
   font-size: 20px;
   text-align: left;
   margin-left: 10px;
+  display: inline;
+}
+.social{
+  display: inline;
 }
 .social img{
-  margin-left: 0%;
+  display: inline;
 }
 /* footer end */
 /* top start */
