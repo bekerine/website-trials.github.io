@@ -219,9 +219,11 @@ footer{
   display: inline;
 }
 .social{
-  display: inline;
+  float: left;
+  align-items: left;
 }
 .social img{
+  align-self: left;
   display: inline;
 }
 /* footer end */
