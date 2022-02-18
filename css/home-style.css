@@ -219,6 +219,7 @@ footer{
   display: inline;
 }
 .social{
+  background-color: black;
   float: left;
   align-items: left;
 }
