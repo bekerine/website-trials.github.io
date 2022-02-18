@@ -214,19 +214,6 @@ footer{
 }
 .social p{
   font-size: 20px;
-  text-align: left;
-  margin-left: 10px;
-  display: inline;
-}
-.social{
-  background-color: black;
-  float: left;
-  align-items: left;
-  width: 100%;
-}
-.social img{
-  align-self: left;
-  display: inline;
 }
 /* footer end */
 /* top start */
