@@ -200,19 +200,19 @@ footer{
   padding-bottom: 1px;
 }
 .footer-content{
-  text-align: left;
+  text-align: center;
   font-size: 10px;
 }
 .footer-menu{
   text-align: center;
-  font-size: medium;
+  font-size: large;
 }
 .footer-menu a{
   text-decoration: none;
   color: aqua;
 }
-.social p{
-  font-size: 20px;
+.social img{
+  width: 20%;
 }
 /* footer end */
 /* top start */
