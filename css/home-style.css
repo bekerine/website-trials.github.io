@@ -222,6 +222,7 @@ footer{
   background-color: black;
   float: left;
   align-items: left;
+  width: 100%;
 }
 .social img{
   align-self: left;
