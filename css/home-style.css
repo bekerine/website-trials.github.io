@@ -201,7 +201,7 @@ footer{
 }
 .footer-content{
   text-align: left;
-  font-size: 20%;
+  font-size: 10px;
 }
 h3{
   font-size: 50%;
@@ -216,12 +216,11 @@ h3{
   color: aqua;
 }
 .social p{
-  font-size: 30px;
+  font-size: 20px;
   text-align: left;
   margin-left: 10px;
 }
 .social img{
-  float: left;
   margin-left: 0%;
 }
 /* footer end */
