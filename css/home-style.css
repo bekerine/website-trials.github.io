@@ -215,12 +215,9 @@ h3{
   color: aqua;
 }
 .social p{
-  font-size: 30;
+  font-size: 30%;
   text-align: left;
   margin-left: 10px;
-}
-.social img{
-  margin-left: 45%
 }
 /* footer end */
 /* top start */
