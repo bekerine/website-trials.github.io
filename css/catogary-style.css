@@ -148,11 +148,13 @@ iframe{
   
   .container {
     padding: 2px;
-    font-size: 38%;
-  }
-  h4{
-    margin-bottom: 0%;
     font-size: 50%;
+  }
+  @media only screen and (max-width: 600px) {
+    h4{
+      margin-bottom: 0%;
+      font-size: 80%;
+    }
   }
   .capture{
     margin-bottom: 10px;
