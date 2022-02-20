@@ -132,7 +132,7 @@ iframe{
     transition: 0.3s;
     width: 200px;
     float: left;
-    margin-right: 5px;
+    margin-right: 10px;
     margin-bottom: 10px;
   }
   
@@ -149,6 +149,7 @@ iframe{
   .container {
     padding: 2px;
     font-size: 50%;
+    text-align: center;
   }
     h4{
       margin-bottom: 0%;
