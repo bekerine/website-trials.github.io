@@ -221,6 +221,7 @@ footer{
     @media screen and (max-width: 600px) {
     .cards {
     width: 125px;
+    height: 125px;
     }
     }
   .cards, a{
