@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 .heading {
     font-size: 25px;
     margin-right: 25px;
@@ -122,7 +125,7 @@ input[type=text], select, textarea {
     letter-spacing: 2px;
 }
 .container{
-    width: 84%;
+    width: 88%;
     /* height: 100vh; */
     display: flex;
     align-items: center;
