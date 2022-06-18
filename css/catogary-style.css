@@ -148,13 +148,13 @@ iframe{
   
   .container {
     padding: 2px;
-    font-size: 50%;
+    font-size: 100%;
     text-align: center;
     color: black;
   }
     h4{
       margin-bottom: 0%;
-      font-size: 65%;
+      font-size: 100%;
       color: black;
     }
     p{
