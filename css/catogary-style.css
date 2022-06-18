@@ -155,6 +155,10 @@ iframe{
     h4{
       margin-bottom: 0%;
       font-size: 65%;
+      color: black;
+    }
+    p{
+      color: black;
     }
   /* product end */
   /* footer start */
@@ -186,4 +190,5 @@ footer{
 
   .card, a {
     text-decoration: none;
+    color: black;
     }
