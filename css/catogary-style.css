@@ -150,6 +150,7 @@ iframe{
     padding: 2px;
     font-size: 50%;
     text-align: center;
+    color: black;
   }
     h4{
       margin-bottom: 0%;
@@ -182,3 +183,7 @@ footer{
     border-radius: 50%;
   }
   /* footer end */
+
+  .card, a {
+    text-decoration: none;
+    }
