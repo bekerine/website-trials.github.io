@@ -150,7 +150,6 @@ footer{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   width: 100%;
   overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
   align-items: center;
 }
 
