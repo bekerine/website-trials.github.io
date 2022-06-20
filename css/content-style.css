@@ -160,6 +160,7 @@ footer{
   right: 0;
   width: 80%;
   height: 80px;
+  align-items: center;
 }
 
 .card:hover {
