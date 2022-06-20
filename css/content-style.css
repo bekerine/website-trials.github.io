@@ -171,4 +171,13 @@ audio{
   margin-top: 20px;
 }
 
+.details{
+  margin-top: 20px;
+}
+
+span{
+  display: block;
+  margin-bottom: 10px;
+}
+
 /* product end */
