@@ -162,4 +162,13 @@ footer{
   overflow-y: scroll;
   overflow-x: hidden;
 }
+
+audio{
+  width: 100%;
+}
+
+.audio{
+  margin-top: 20px;
+}
+
 /* product end */
